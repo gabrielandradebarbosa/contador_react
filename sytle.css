@@ -1,3 +1,14 @@
+
+:root{
+    --cor-principal:#3498db;
+    --cor-secundaria:#2c3e50;
+    --espacamento:16px;
+}
+
+body{
+    font-family: Arial,  sans-serif;
+}
+
 .cabecalho{
     display: flex;
     justify-content: space-between;
